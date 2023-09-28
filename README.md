@@ -7,11 +7,13 @@ La tasa de divorcios a nivel mundial ha alcanzado un nivel alarmante, pues en Pe
 
 ## Propuesta
 **Objetivo:**
-El objetivo de esta propuesta es abordar el problema del alto índice de divorcio en la sociedad actual mediante la implementación de un sistema de búsqueda y recomendación de parejas en una aplicación de citas en línea. Nuestra meta principal es proporcionar a los usuarios una herramienta que les permita encontrar relaciones más sólidas y compatibles desde el inicio, reduciendo así la tasa de divorcio y promoviendo relaciones amorosas más saludables y duraderas.</br>
+El objetivo de esta propuesta es abordar el problema del alto índice de divorcio en la sociedad actual mediante la implementación de un sistema de búsqueda y recomendación de parejas en una aplicación de citas en línea. Nuestra meta principal es proporcionar a los usuarios una herramienta que les permita encontrar relaciones más sólidas y compatibles desde el inicio, reduciendo así la tasa de divorcio y promoviendo relaciones amorosas más saludables y duraderas.
+
 **Técnica Utilizada: Union-Find Disjoint Sets (UFDS)**
 Hemos decidido emplear la técnica de Union-Find Disjoint Sets (UFDS) como la piedra angular de nuestra solución debido a sus ventajas en la agrupación de usuarios en conjuntos o clústeres en función de criterios de similitud. Esta elección se respalda tanto por su versatilidad como por su capacidad para adaptarse a las necesidades específicas de los usuarios en la búsqueda de parejas compatibles.
 
-La UFDS nos permitirá crear grupos de usuarios que comparten intereses, características o preferencias similares. Al agrupar a los usuarios de esta manera, podremos ofrecer recomendaciones más precisas y relevantes al sugerir a los usuarios que interactúen dentro de su grupo de afinidad. Esta estrategia se basa en la idea de que las relaciones sólidas a menudo se desarrollan entre personas con intereses y valores comunes (McPherson et al., 2001).</br>
+La UFDS nos permitirá crear grupos de usuarios que comparten intereses, características o preferencias similares. Al agrupar a los usuarios de esta manera, podremos ofrecer recomendaciones más precisas y relevantes al sugerir a los usuarios que interactúen dentro de su grupo de afinidad. Esta estrategia se basa en la idea de que las relaciones sólidas a menudo se desarrollan entre personas con intereses y valores comunes (McPherson et al., 2001).
+
 **Metodología:**
 - <b>Recopilación de datos:</b> Inicialmente, obtendremos información de diversas fuentes, incluyendo encuestas, perfiles de usuarios, datos públicos disponibles en línea y registros de citas previas dentro de nuestra aplicación. Estos datos serán fundamentales para identificar similitudes y patrones entre los usuarios, permitiéndonos realizar recomendaciones más precisas y personalizadas.
 
@@ -39,3 +41,9 @@ En resumen, esta propuesta tiene como objetivo abordar el problema del alto índ
 * Ricou, J. (2016, 2 de octubre). _Divorcios: cada cinco minutos se rompe una pareja_. La Vanguardia. Recuperado el 28 de setiembre de 2023, de [https://www.lavanguardia.com/vida/20161002/41720816201/cada-cinco-minutos-se-rompe-una-pareja.html](https://www.lavanguardia.com/vida/20161002/41720816201/cada-cinco-minutos-se-rompe-una-pareja.html)
 * Pérez et al. (2009). El divorcio: una aproximación psicológica. _La Revue du REDIF_, _2_, 39-46. [https://d1wqtxts1xzle7.cloudfront.net/39320485/univ._ramon_llull-libre.pdf?1445359097=&response-content-disposition=inline%3B+filename%3DEl_divorcio_una_aproximacion_psicologica.pdf&Expires=1695916106&Signature=cxEayaE2IUzagCtmrWDgsKsNrGYmw9Y~kSLKJhYigMExK6w4IwFFYhfS~o-0QcBnPjXZMBphRme2bD6gPboMJ~DBW-si4-zngp08LGSvZrhjKvG~tuX2KpoNeoiQagrTuZpcCVYWXgRzeyl5YoX4iEbFAfXfBQUkb2NdfmhlwXWE7DWEdl7fzayhmaKg5ywEorgjU36WmUxPZkJaKAMR4FlTGqZoEr4OON2eIfcQReRb3vUXxYmSKvNiDyB~14APyIjQySQ7TBgUSrW7vQyHQTQq~EWnXUKGKXe5hLX84taMaGKjY3WXYXfUo0YH0RArrQKtLeHdOO-YyqczTdlyjg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA](https://d1wqtxts1xzle7.cloudfront.net/39320485/univ._ramon_llull-libre.pdf?1445359097=&response-content-disposition=inline%3B+filename%3DEl_divorcio_una_aproximacion_psicologica.pdf&Expires=1695916106&Signature=cxEayaE2IUzagCtmrWDgsKsNrGYmw9Y~kSLKJhYigMExK6w4IwFFYhfS~o-0QcBnPjXZMBphRme2bD6gPboMJ~DBW-si4-zngp08LGSvZrhjKvG~tuX2KpoNeoiQagrTuZpcCVYWXgRzeyl5YoX4iEbFAfXfBQUkb2NdfmhlwXWE7DWEdl7fzayhmaKg5ywEorgjU36WmUxPZkJaKAMR4FlTGqZoEr4OON2eIfcQReRb3vUXxYmSKvNiDyB~14APyIjQySQ7TBgUSrW7vQyHQTQq~EWnXUKGKXe5hLX84taMaGKjY3WXYXfUo0YH0RArrQKtLeHdOO-YyqczTdlyjg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
 * Instituto Nacional de Estadística. (2013). _Divorcios según estado civil de los cónyuges al contraer el matrimonio_ [Conjunto de datos]. Instituto Nacional de Estadística (INE). [https://www.ine.es/](https://www.ine.es/)
+
+## Anexos
+* Gráfico estadístico de divorcios totales
+<p>
+    <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1156975561630027826/image.png?ex=6516ecf5&is=65159b75&hm=708e9c04a5d982ade1f6f3815abe4762e3f5f2745e65036fe7e01cede057e879&" alt="Gráfico estadistico de divorcios totales">
+</p>
