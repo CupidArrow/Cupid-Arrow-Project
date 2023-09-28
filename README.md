@@ -7,11 +7,13 @@ La tasa de divorcios a nivel mundial ha alcanzado un nivel alarmante, pues en Pe
 
 ## Propuesta
 **Objetivo:**
-El objetivo de esta propuesta es abordar el problema del alto índice de divorcio en la sociedad actual mediante la implementación de un sistema de búsqueda y recomendación de parejas en una aplicación de citas en línea. Nuestra meta principal es proporcionar a los usuarios una herramienta que les permita encontrar relaciones más sólidas y compatibles desde el inicio, reduciendo así la tasa de divorcio y promoviendo relaciones amorosas más saludables y duraderas.</br>
+El objetivo de esta propuesta es abordar el problema del alto índice de divorcio en la sociedad actual mediante la implementación de un sistema de búsqueda y recomendación de parejas en una aplicación de citas en línea. Nuestra meta principal es proporcionar a los usuarios una herramienta que les permita encontrar relaciones más sólidas y compatibles desde el inicio, reduciendo así la tasa de divorcio y promoviendo relaciones amorosas más saludables y duraderas.
+
 **Técnica Utilizada: Union-Find Disjoint Sets (UFDS)**
 Hemos decidido emplear la técnica de Union-Find Disjoint Sets (UFDS) como la piedra angular de nuestra solución debido a sus ventajas en la agrupación de usuarios en conjuntos o clústeres en función de criterios de similitud. Esta elección se respalda tanto por su versatilidad como por su capacidad para adaptarse a las necesidades específicas de los usuarios en la búsqueda de parejas compatibles.
 
-La UFDS nos permitirá crear grupos de usuarios que comparten intereses, características o preferencias similares. Al agrupar a los usuarios de esta manera, podremos ofrecer recomendaciones más precisas y relevantes al sugerir a los usuarios que interactúen dentro de su grupo de afinidad. Esta estrategia se basa en la idea de que las relaciones sólidas a menudo se desarrollan entre personas con intereses y valores comunes (McPherson et al., 2001).</br>
+La UFDS nos permitirá crear grupos de usuarios que comparten intereses, características o preferencias similares. Al agrupar a los usuarios de esta manera, podremos ofrecer recomendaciones más precisas y relevantes al sugerir a los usuarios que interactúen dentro de su grupo de afinidad. Esta estrategia se basa en la idea de que las relaciones sólidas a menudo se desarrollan entre personas con intereses y valores comunes (McPherson et al., 2001).
+
 **Metodología:**
 - <b>Recopilación de datos:</b> Inicialmente, obtendremos información de diversas fuentes, incluyendo encuestas, perfiles de usuarios, datos públicos disponibles en línea y registros de citas previas dentro de nuestra aplicación. Estos datos serán fundamentales para identificar similitudes y patrones entre los usuarios, permitiéndonos realizar recomendaciones más precisas y personalizadas.
 
@@ -41,3 +43,9 @@ En resumen, esta propuesta tiene como objetivo abordar el problema del alto índ
 * Instituto Nacional de Estadística. (2013). _Divorcios según estado civil de los cónyuges al contraer el matrimonio_ [Conjunto de datos]. Instituto Nacional de Estadística (INE). [https://www.ine.es/](https://www.ine.es/)
 * McPherson, M., Smith-Lovin, L., & Cook, J. M. (2001). Birds of a feather: Homophily in social networks. Annual Review of Sociology, 27(1), 415-444. Recuperado de https://www.annualreviews.org/doi/abs/10.1146/annurev.soc.27.1.415
 * Aggarwal, C. C. (2015). Data Clustering: Algorithms and Applications. CRC Press. Recuperado de https://www.taylorfrancis.com/books/data-clustering-charu-aggarwal/e/10.1201/b18438
+
+## Anexos
+* Gráfico estadístico de divorcios totales
+<p>
+    <img src="https://cdn.discordapp.com/attachments/1037343952694685706/1156975561630027826/image.png?ex=6516ecf5&is=65159b75&hm=708e9c04a5d982ade1f6f3815abe4762e3f5f2745e65036fe7e01cede057e879&" alt="Gráfico estadistico de divorcios totales">
+</p>
