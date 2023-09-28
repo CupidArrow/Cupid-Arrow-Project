@@ -11,7 +11,7 @@ El objetivo de esta propuesta es abordar el problema del alto índice de divorci
 **Técnica Utilizada: Union-Find Disjoint Sets (UFDS)**
 Hemos decidido emplear la técnica de Union-Find Disjoint Sets (UFDS) como la piedra angular de nuestra solución debido a sus ventajas en la agrupación de usuarios en conjuntos o clústeres en función de criterios de similitud. Esta elección se respalda tanto por su versatilidad como por su capacidad para adaptarse a las necesidades específicas de los usuarios en la búsqueda de parejas compatibles.
 
-La UFDS nos permitirá crear grupos de usuarios que comparten intereses, características o preferencias similares. Al agrupar a los usuarios de esta manera, podremos ofrecer recomendaciones más precisas y relevantes al sugerir a los usuarios que interactúen dentro de su grupo de afinidad. Esta estrategia se basa en la idea de que las relaciones sólidas a menudo se desarrollan entre personas con intereses y valores comunes [Fuente: McPherson et al., 2001].</br>
+La UFDS nos permitirá crear grupos de usuarios que comparten intereses, características o preferencias similares. Al agrupar a los usuarios de esta manera, podremos ofrecer recomendaciones más precisas y relevantes al sugerir a los usuarios que interactúen dentro de su grupo de afinidad. Esta estrategia se basa en la idea de que las relaciones sólidas a menudo se desarrollan entre personas con intereses y valores comunes (McPherson et al., 2001).</br>
 **Metodología:**
 - <b>Recopilación de datos:</b> Inicialmente, obtendremos información de diversas fuentes, incluyendo encuestas, perfiles de usuarios, datos públicos disponibles en línea y registros de citas previas dentro de nuestra aplicación. Estos datos serán fundamentales para identificar similitudes y patrones entre los usuarios, permitiéndonos realizar recomendaciones más precisas y personalizadas.
 
@@ -25,7 +25,7 @@ La UFDS nos permitirá crear grupos de usuarios que comparten intereses, caracte
 
 - <b>Lanzamiento y Monitoreo:</b> Lanzaremos la aplicación y continuaremos monitoreándola para realizar mejoras y ajustes adicionales.
 
-La elección de UFDS como técnica central de agrupación se basa en su eficacia probada en la formación de grupos de similitud en conjuntos de datos complejos. Además, al ser una técnica bien establecida, podemos aprovechar la investigación previa y las mejores prácticas en la aplicación de UFDS para mejorar nuestras recomendaciones [Fuente: Aggarwal, 2015].
+La elección de UFDS como técnica central de agrupación se basa en su eficacia probada en la formación de grupos de similitud en conjuntos de datos complejos. Además, al ser una técnica bien establecida, podemos aprovechar la investigación previa y las mejores prácticas en la aplicación de UFDS para mejorar nuestras recomendaciones (Aggarwal, 2015).
 
 En resumen, esta propuesta tiene como objetivo abordar el problema del alto índice de divorcio mediante la aplicación de la técnica UFDS para agrupar usuarios y proporcionar recomendaciones de parejas más efectivas en una aplicación de citas en línea.
 
