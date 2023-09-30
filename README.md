@@ -5,6 +5,24 @@ La tasa de divorcios a nivel mundial ha alcanzado un nivel alarmante, pues en Pe
 
 ## Descripción del conjunto de datos (dataset)
 
+El conjunto de datos que usaremos será un json que fue creado por un script hecho en python donde almacenamos datos de nombres masculinos, femeninos, intereses (Cine, Música, etc...) y las ciudades donde residen. El script se encuentra en la carpeta `data` con el nombre de `scripts.py` y el json generado se encuentra en la carpeta `data` con el nombre de `data.json`.
+el json tiene los siguientes parámetros:
+* `id`: Identificador único del usuario
+* `name`: Nombre del usuario
+* `sex`: Género del usuario
+* `city`: Ciudad donde reside el usuario
+* `interests`: Intereses del usuario
+
+El número de usuarios en el conjuto de datos es de 10 mil usuarios. en los cuales encontramos tanto hombres como mujeres, con intereses variados y de diferentes ciudades del Perú.
+
+<div>
+    <img src="https://media.discordapp.net/attachments/1145753804864749568/1157718405311369257/image.png?ex=6519a0c9&is=65184f49&hm=cd39acf64aceada5c9d1cb01f4c5132442723f340563834f942b0bd094f0ef01&=" alt="Imagen de Grafo"/>
+</div>
+
+La imagen representa a un conjunto de grafos donde las conexiones de cada nodo representa un usuario y cada arista representa una conexión entre dos usuarios.
+Estas conexiones se dan cuando dos usuarios tienen intereses en común, viven en la misma ciudad y son del género seleccionado.
+
+
 ## Propuesta
 **Objetivo:**
 El objetivo de esta propuesta es abordar el problema del alto índice de divorcio en la sociedad actual mediante la implementación de un sistema de búsqueda y recomendación de parejas en una aplicación de citas en línea. Nuestra meta principal es proporcionar a los usuarios una herramienta que les permita encontrar relaciones más sólidas y compatibles desde el inicio, reduciendo así la tasa de divorcio y promoviendo relaciones amorosas más saludables y duraderas.
