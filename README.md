@@ -50,6 +50,15 @@ La elección de UFDS como técnica central de agrupación se basa en su eficacia
 En resumen, esta propuesta tiene como objetivo abordar el problema del alto índice de divorcio mediante la aplicación de la técnica UFDS para agrupar usuarios y proporcionar recomendaciones de parejas más efectivas en una aplicación de citas en línea.
 
 ## Diseño del aplicativo
+El diseño de nuestra aplicación de citas ha sido meticulosamente elaborado para brindar a los usuarios una experiencia intuitiva y atractiva. Con una interfaz limpia y moderna, la aplicación presenta colores cálidos y vibrantes que crean un ambiente acogedor y agradable. La inclusión de imágenes de alta resolución y perfiles detallados permite a los usuarios conocer mejor a sus posibles coincidencias. Además, la aplicación ha sido diseñada con un enfoque en la privacidad y la seguridad, garantizando que los usuarios se sientan cómodos al explorar conexiones significativas en un entorno digital.
+* Diseño en Figma: [Cupid Arrow Design](https://www.figma.com/file/gdCB2vb2MLBAO4eaTEosga/Untitled?type=design&node-id=0%3A1&mode=design&t=DCJNDd5DPVKsSYui-1)
+<div>
+    <img src="https://cdn.discordapp.com/attachments/1150821498878185663/1172783188129628281/Part1.png?ex=65619275&is=654f1d75&hm=4a905385a5284cf7b33692490db656708811875341b98e0aea57310dead95570&" alt="Diseño Cupid Arrow 1"/>
+</div>
+<div>
+    <img src="https://cdn.discordapp.com/attachments/1150821498878185663/1172783188427415557/Part2.png?ex=65619275&is=654f1d75&hm=39bd61209072c1a309df69cf4c11125869ec5a4bcbdb4916984c217ccb95217a&" alt="Diseño Cupid Arrow 2"/>
+</div>
+Como se puede apreciar en las imagenes anteriores, nuestra aplicación de citas se distingue por su enfoque "First Desktop", lo que significa que se ha priorizado la experiencia del usuario en plataformas de escritorio para asegurar una interacción fluida y cómoda desde computadoras. La interfaz se adapta de manera elegante a pantallas más grandes, aprovechando al máximo el espacio visual disponible y ofreciendo una disposición de elementos que facilita la exploración de perfiles y la gestión de preferencias.
 
 ## Validación de resultados y pruebas.
 
