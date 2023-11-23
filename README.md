@@ -1,5 +1,3 @@
-# Cupid-Arrow-Project
-
 ## Descripción del problema
 La tasa de divorcios a nivel mundial ha alcanzado un nivel alarmante, pues en Perú hubo un aumento de más de 25% en divorcios durante los últimos 9 años y con una tendencia creciente (INE). Esta preocupante tendencia refleja cambios significativos en la dinámica de las relaciones y el matrimonio en la sociedad peruana. Factores como la evolución de las expectativas en las parejas, la independencia económica de ambos cónyuges y la creciente aceptación social del divorcio como una opción legítima para poner fin a relaciones insatisfactorias contribuyen a este incremento (Ricou, 2016). El proceso de divorcio puede ser emocionalmente agotador y traumático, ya que las parejas se enfrentan a una serie de desafíos emocionales y psicológicos. La sensación de fracaso y pérdida puede generar sentimientos de tristeza, culpa, enojo y ansiedad. Los cónyuges a menudo deben lidiar con la separación de un compañero de vida, la reestructuración de las relaciones familiares y la adaptación a una nueva realidad. Sin embargo, Los hijos también pueden verse afectados, experimentando confusión, tristeza, culpabilidad y estrés debido a la ruptura de la unidad familiar (Pérez et al., 2009).
 
@@ -61,6 +59,26 @@ El diseño de nuestra aplicación de citas ha sido meticulosamente elaborado par
 Como se puede apreciar en las imagenes anteriores, nuestra aplicación de citas se distingue por su enfoque "First Desktop", lo que significa que se ha priorizado la experiencia del usuario en plataformas de escritorio para asegurar una interacción fluida y cómoda desde computadoras. La interfaz se adapta de manera elegante a pantallas más grandes, aprovechando al máximo el espacio visual disponible y ofreciendo una disposición de elementos que facilita la exploración de perfiles y la gestión de preferencias.
 
 ## Validación de resultados y pruebas.
+Este proyecto tiene como objetivo detectar patrones y relaciones significativas en los datos relacionados con el alto índice de divorcios en Perú, con la finalidad de abordar este problema mediante el uso de  Union-Find Disjoint Sets (UFDS). De esta manera, el usuario podrá encontrar quienes son las personas con las que mejor se puede relacionar en función de su ciuidad, sexo e intereses.
+
+### Resultados del backend:
+<div>
+    <img src="https://cdn.discordapp.com/attachments/1150821498878185663/1177250840000602182/image.png?ex=6571d348&is=655f5e48&hm=12b8086d2e81db802fceb0be9c56f7a005dd7fd69ec6c6ea9994114b118c9f08&" alt="Backend test 1"/>
+</div>
+<div>
+    <img src="https://media.discordapp.net/attachments/1150821498878185663/1177250586056474706/image.png?ex=6571d30b&is=655f5e0b&hm=61b5f1a185d5dca07dd411249e3b8b8f31ab27439b1fec486796083be9ddfcb4&=&format=webp&width=1148&height=646" alt="Backend test 2"/>
+</div>
+
+### Resultados del frontend conectado al backend:
+<div>
+    <img src="https://media.discordapp.net/attachments/1145753804864749568/1177241855881138207/image.png?ex=6571caea&is=655f55ea&hm=ad95e36872ec3e569fdfae792423637f6649dc2b7fc5062df3823bf1decdb453&=&format=webp&width=1210&height=646" alt="Frontend test 1"/>
+</div>
+<div>
+    <img src="https://cdn.discordapp.com/attachments/1145753804864749568/1177243098301071410/image.png?ex=6571cc12&is=655f5712&hm=160187f150d51055a8e140498965cf3432071104f0c9b693734ba54c52626091&" alt="Frontend test 2"/>
+</div>
+<div>
+    <img src="https://cdn.discordapp.com/attachments/1145753804864749568/1177243886758940722/image.png?ex=6571ccce&is=655f57ce&hm=55414f2f3ccb618d7a7595421f9d56f6bc7f7e4dc76878e2095e5f857c2fdb7e&" alt="Frontend test 2">
+</div>
 
 ## Conclusiones
 * La elección de UFDS se basó en su eficacia para formar grupos de similitud en conjuntos de datos complejos, respaldada por investigaciones previas y mejores prácticas.
