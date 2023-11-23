@@ -1,3 +1,46 @@
+#### Universidad Peruana de Ciencias Aplicadas
+#### Ingeniería de Software
+#### Complejidad Algorítmica - WS6B
+<hr>
+
+# <div align="center">Informe TF</div>
+
+<p align="center">
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+    <strong>Ingeniería de Software - 5to Ciclo</strong><br>
+    <strong>Complejidad Algorítmica - WS6B</strong><br>
+    <strong>Profesor: Luis Martín Canaval Sánchez</strong><br>
+</p>
+
+
+## Team Members:
+
+<div align="center">
+    <table>
+        <tr>
+            <th>Member</th>
+            <th>Code</th>
+        </tr>
+        <tr>
+            <td>Castillo Robles, Steve</td>
+            <td>U202121679</td>
+        </tr>
+        <tr>
+            <td>Quito Igreda, Cristian Andrés</td>
+            <td>U202121882</td>
+        </tr>
+        <tr>
+            <td>Esquivel Aguayo, Diego Martín</td>
+            <td>U202116749</td>
+        </tr>
+    </table>
+</div>
+<br>
+
+### <div align="center">Ciclo 2023-02</div>
+<br><br>
+
 ## Descripción del problema
 La tasa de divorcios a nivel mundial ha alcanzado un nivel alarmante, pues en Perú hubo un aumento de más de 25% en divorcios durante los últimos 9 años y con una tendencia creciente (INE). Esta preocupante tendencia refleja cambios significativos en la dinámica de las relaciones y el matrimonio en la sociedad peruana. Factores como la evolución de las expectativas en las parejas, la independencia económica de ambos cónyuges y la creciente aceptación social del divorcio como una opción legítima para poner fin a relaciones insatisfactorias contribuyen a este incremento (Ricou, 2016). El proceso de divorcio puede ser emocionalmente agotador y traumático, ya que las parejas se enfrentan a una serie de desafíos emocionales y psicológicos. La sensación de fracaso y pérdida puede generar sentimientos de tristeza, culpa, enojo y ansiedad. Los cónyuges a menudo deben lidiar con la separación de un compañero de vida, la reestructuración de las relaciones familiares y la adaptación a una nueva realidad. Sin embargo, Los hijos también pueden verse afectados, experimentando confusión, tristeza, culpabilidad y estrés debido a la ruptura de la unidad familiar (Pérez et al., 2009).
 
