@@ -128,6 +128,8 @@ Este proyecto tiene como objetivo detectar patrones y relaciones significativas 
 * La interfaz de usuario de la aplicación de citas refleja una atención meticulosa hacia la experiencia del usuario, la eficiencia en la interacción y la alineación con los objetivos centrales de la aplicación para mejorar la calidad de las relaciones y reducir la tasa de divorcio.
 * La mejora continua de nuestro trabajo fue esencial para asegurar el éxito y la efectividad de la aplicación de citas.De esta manera, optimizamos constantemente la experiencia del usuario, incorporando la retroalimentación de los usuarios y adaptándonos a las tendencias emergentes.
 * Las reuniones constantes y las sesiones colaborativas permitieron un proceso de desarrollo más ágil y efectivo, optimizando la calidad y funcionalidad de la aplicación.
+* El trabajo nos apertura a investigar nuevos técnicas de agrupamiento, además del UFDS, que puedan ser eficaces para formar grupos de similitud en conjuntos de datos complejos. Investigar sobre algoritmos de clustering más recientes, comparar su eficacia y evaluar cómo podrían aplicarse a la mejora de la funcionalidad de la aplicación.
+* Se recomienda investigar más sobre enfoques de desarrollo ágil y prácticas colaborativas que puedan mejorar aún más la eficiencia del proceso de desarrollo. Examinar metodologías ágiles específicas, herramientas de colaboración y estrategias para mantener un equipo comprometido y enfocado en los objetivos del proyecto.
 
 ## Referencias Bibliográficas
 * Aggarwal, C. C. (2015). Data Clustering: Algorithms and Applications. CRC Press. Recuperado de https://www.taylorfrancis.com/books/data-clustering-charu-aggarwal/e/10.1201/b18438
