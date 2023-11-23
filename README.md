@@ -83,7 +83,7 @@ Este proyecto tiene como objetivo detectar patrones y relaciones significativas 
 ## Conclusiones
 * La elección de UFDS se basó en su eficacia para formar grupos de similitud en conjuntos de datos complejos, respaldada por investigaciones previas y mejores prácticas.
 * La interfaz de usuario de la aplicación de citas refleja una atención meticulosa hacia la experiencia del usuario, la eficiencia en la interacción y la alineación con los objetivos centrales de la aplicación para mejorar la calidad de las relaciones y reducir la tasa de divorcio.
-* La metodología gitflow promovió una avance del trabajo efectiva, pues cada miembre del equipo se creaba una rama para el desarrollo de su funcionalidad asignada.
+* La mejora continua de nuestro trabajo fue esencial para asegurar el éxito y la efectividad de la aplicación de citas.De esta manera, optimizamos constantemente la experiencia del usuario, incorporando la retroalimentación de los usuarios y adaptándonos a las tendencias emergentes.
 * Las reuniones constantes y las sesiones colaborativas permitieron .un proceso de desarrollo más ágil y efectivo, optimizando la calidad y funcionalidad de la aplicación.
 
 ## Referencias Bibliográficas
